@@ -5,7 +5,7 @@
   "dependencies": {
     "element-react": "^1.4.33",
     "element-theme-default": "^1.4.13",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "rc-slider": "^8.6.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
